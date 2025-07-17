@@ -3,7 +3,7 @@ import React from 'react'
 function PackageWelcome() {
   return (
     
-     <section className="md:w-[60%]justify-self-center">
+     <section className="md:w-[60%] justify-self-center">
         <div className="wrapper bg-white p-10  rounded-4xl ">
             <div className="head"> 
             <h4 className="text-gray-500   md:text-2xl font-bold">HOSTING DETAILS</h4>

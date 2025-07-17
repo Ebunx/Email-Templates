@@ -8,7 +8,7 @@ function NewVps() {
           <h4 className="text-gray-500 md:text-2xl font-bold">VPS</h4>
         </div>
 
-        <img src="Managevps.jpg" alt="Happy Black woman" className="mt-2" />
+        <img src="ManageVps.jpg" alt="Happy Black woman" className="mt-2" />
 
         <p className="text-left mt-4 font-bold text-sm">
           Hi Jane Doe,

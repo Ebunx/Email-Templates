@@ -11,8 +11,8 @@ import {
 function Header() {
   return (
     <header class=" m-4    md:place-self-center  md:w-[60%]">
-  <nav class="flex flex-wrap gap-2    md:place-self-center    justify-between    text-black md:w-[95%]    ">
-        <img src="HOSTBRIDGE.png" alt="Logo" width="100"  class="  md:justify-start md:-mb-4" />
+  <nav class="flex flex-wrap gap-2   md:place-self-center    justify-between    text-black md:w-[95%]    ">
+        <img src="HOSTBRIDGE.png" alt="Logo" width="100"  class="  md:justify-start " />
 
     <ul className="flex   md:justify-end gap-x-4 md:flex-1">
       <li>
