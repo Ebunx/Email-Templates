@@ -27,7 +27,7 @@ function App() {
   const [isOpened, setIsOpened] = useState(false)
 
   return (
-    <div className="bg-purple-100 p-4">
+    <div className="bg-purple-100 p-4" onClick={() => setIsOpened(!isOpened)}>
       <BrowserRouter>
         <button className="text-2xl p-2" onClick={() => setIsOpened(prev => !prev)}>
           <FontAwesomeIcon icon={faBars} />
@@ -37,6 +37,7 @@ function App() {
 
         <Header />
         <Routes>
+          <Route path="/" element={<WelcomEmail />} />
           <Route path="/billing" element={<BillingDue />} />
           <Route path="/Managevps" element={<Vps />} />
           <Route path="/NewVps" element={<NewVps />} />

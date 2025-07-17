@@ -2,7 +2,7 @@ import React from 'react'
 
 function PasswordReset() {
   return (
-       <section class="w-[60%] justify-self-center">
+       <section class="md:w-[60%] justify-self-center">
       <div class="wrapper bg-white p-10  rounded-4xl ">
         <div class="head">
           <h4 class="   md:text-2xl font-bold">PASSWORD RESET </h4>

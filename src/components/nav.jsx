@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function Nav() {
   return (
-     <div className=" absolute bg-white w-[50%]">
+     <div className="md:move absolute bg-white md:w-[20%]  w-[50%]">
         <nav className="flex flex-wrap justify-between items-center text-black-500 w-[55%] mx-auto">
 
             <ul>

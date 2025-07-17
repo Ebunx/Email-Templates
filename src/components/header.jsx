@@ -10,22 +10,22 @@ import {
 
 function Header() {
   return (
-    <header class=" m-4 mx-auto place-items-center w-[100%]">
-  <nav class="flex flex-wrap  justify-between items-center   text-black-500 w-[55%]   ">
-        <img src="HOSTBRIDGE.png" alt="Logo" width="100"  class="  justify-start -mb-4" />
+    <header class=" m-4    md:place-self-center  md:w-[60%]">
+  <nav class="flex flex-wrap gap-2    md:place-self-center    justify-between    text-black md:w-[95%]    ">
+        <img src="HOSTBRIDGE.png" alt="Logo" width="100"  class="  md:justify-start md:-mb-4" />
 
-    <ul className="flex justify-end gap-4 flex-1">
+    <ul className="flex   md:justify-end gap-x-4 md:flex-1">
       <li>
-        <FontAwesomeIcon icon={faFacebook} size="lg" />
+        <FontAwesomeIcon icon={faFacebook}   />
       </li>
       <li>
-        <FontAwesomeIcon icon={faInstagram} size="lg" />
+        <FontAwesomeIcon icon={faInstagram}   />
       </li>
       <li>
-        <FontAwesomeIcon icon={faLinkedin} size="lg" />
+        <FontAwesomeIcon icon={faLinkedin}   />
       </li>
       <li>
-        <FontAwesomeIcon icon={faTwitter} size="lg" />
+        <FontAwesomeIcon icon={faTwitter}   />
       </li>
     </ul>
 

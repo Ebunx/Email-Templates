@@ -2,7 +2,7 @@ import React from 'react'
 
 function BillingDue() {
   return (
-    <section class="w-[60%] justify-self-center">
+    <section class="md:w-[60%] justify-self-center">
         <div class="wrapper bg-white p-10  rounded-4xl ">
             <div class="head"> 
             <h4 class="font-bold :text-2xl ">BILLING DUE </h4>
@@ -15,7 +15,7 @@ function BillingDue() {
 <p class="text-left mt-4 font-bold text-gray-600 md:text-lg text-sm" > 
 We hope this message finds you well. We're reaching out to remind you that the following services are due for renewal:
 </p>
-<p class="text-left mt-4 font-bold   text-lg text-sm" > 
+<p class="text-left mt-4 font-bold   text-lg " > 
   Service Type	Service Name	Billing period	Expiry date
     </p>
 
