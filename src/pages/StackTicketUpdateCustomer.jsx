@@ -15,7 +15,7 @@ function StackTicketUpdateCustomer() {
          Jane Doe has updated their support ticket: 000000 
         </h3>
         <p className="mt-4">You can take a look and respond here (link).</p>
-        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-purple-500">
+        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-[#0050E5]">
           {" "}
           <a href="https://mysupporturl.com/">Here's Your Link</a>
         </button>

@@ -15,7 +15,7 @@ function StackTicketClosed() {
           An update has been made to your support ticket: 000000 You can take a
           look at the update and respond here.
         </h3>
-        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-purple-500">
+        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-[#0050E5]">
           {" "}
           <a href="https://mysupporturl.com/">Here's Your Link</a>
         </button>

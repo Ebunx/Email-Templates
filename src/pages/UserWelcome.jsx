@@ -28,7 +28,7 @@ function UserWelcome() {
           <span className=" ">
             <a
               href="http://cp.hostbridge.co"
-              className="underline text-purple-500"
+              className="underline text-blue-500"
             >
               here
             </a>{" "}

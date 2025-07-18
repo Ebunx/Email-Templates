@@ -17,7 +17,7 @@ function ServiceManagement() {
           You can log in to HostBridge CP and start managing your service
           immediately. Best wishes
         </h3>
-        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-purple-500">
+        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-[#0050E5]">
           {" "}
           <a href="https://mysupporturl.com/">Here's Your Link</a>
         </button>

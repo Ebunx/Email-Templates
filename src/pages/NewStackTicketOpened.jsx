@@ -18,7 +18,7 @@ Your support ticket: 000000
         </h3>
         <p className='mt-4'>Our support team are reviewing your ticket and will get back to you as soon as possible.</p>
         <p className='mt-4'>We'll let you know as soon as an update has been made. You can always add further updates to your ticket here.</p>
-        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-purple-500">
+        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-[#0050E5]">
           {" "}
           <a href="https://mysupporturl.com/">Here's Your Link</a>
         </button>

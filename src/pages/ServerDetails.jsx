@@ -5,7 +5,7 @@ function ServerDetails() {
     <section className="md:w-[60%] justify-self-center">
       <div className="wrapper bg-white p-10  rounded-4xl ">
         <div className="head">
-          <h4 className="text-gray-500   md:text-2xl font-bold">
+          <h4 className="text-black   md:text-2xl font-bold">
             SERVER DETAILS
           </h4>
         </div>

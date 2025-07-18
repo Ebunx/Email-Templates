@@ -8,9 +8,9 @@ function BillingDue() {
             <h4 class="font-bold :text-2xl ">BILLING DUE </h4>
             </div>
 
-            <img src="Happy Black woman illustration.jpg" alt="" class="mt-2"/>
+            <img src="BillingDue.jpg" alt="" class="mt-2"/>
 
-              <p class="text-left mt-4 font-bold text-gray-600 md:text-lg text-sm" >Hiya Jane Doe,  
+              <p class="text-left mt-4 font-bold text-black md:text-lg text-sm" >Hiya Jane Doe,  
 </p>
 <p class="text-left mt-4 font-bold text-gray-600 md:text-lg text-sm" > 
 We hope this message finds you well. We're reaching out to remind you that the following services are due for renewal:

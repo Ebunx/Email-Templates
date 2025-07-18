@@ -14,7 +14,7 @@ function Header() {
   <nav class="flex flex-wrap gap-2   md:place-self-center    justify-between    text-black md:w-[95%]    ">
         <img src="HOSTBRIDGE.png" alt="Logo" width="100"  class="  md:justify-start " />
 
-    <ul className="flex   md:justify-end gap-x-4 md:flex-1">
+    <ul className="flex   md:justify-end gap-x-3 md:flex-1">
       <li>
         <FontAwesomeIcon icon={faFacebook}   />
       </li>

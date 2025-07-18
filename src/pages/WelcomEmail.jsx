@@ -20,7 +20,7 @@ Your new example.name is now ready to use.
 
        
 
-        <button className="bg-purple-400 text-white font-bold p-4 rounded-full mt-3 md:text-xl">ACTIVATE ACCOUNT</button>
+        <button className="bg-[#0050E5] text-white font-bold p-4 rounded-full mt-3 md:text-xl">ACTIVATE ACCOUNT</button>
     </section>
   )
 }

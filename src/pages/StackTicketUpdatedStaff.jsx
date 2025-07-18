@@ -14,8 +14,8 @@ function StackTicketUpdatedStaff() {
         <h3 className="mt-8 text-2xl">
           An update has been made to your support ticket: 000000
         </h3>
-        <p className="mt-4">You can take a look and respond here (link).</p>
-        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-purple-500">
+        <p className="mt-4">You can take a look and respond </p>
+        <button className="mt-5 text-xl text-white rounded-md p-4 font-bold bg-[#0050E5]">
           {" "}
           <a href="https://mysupporturl.com/">Here's Your Link</a>
         </button>
